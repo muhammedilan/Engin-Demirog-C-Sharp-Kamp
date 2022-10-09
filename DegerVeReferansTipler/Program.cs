@@ -6,7 +6,7 @@
             int sayi2 = 30;
             sayi1 = sayi2;
             sayi2 = 100;
-            Console.WriteLine(sayi1); // 30 yazar çünkü sayi1 degerine sayi2 yi atadıktan sonra sayi2 nin artıp azalması ilgilendirmez bizi
+            Console.WriteLine(sayi1); // 30 yazar çünkü sayi1 degerine sayi2 yi atadıktan sonra sayi2 nin artıp azalması birşey değiştirmez
 
             int[] sayilar1 = new int[] { 10, 20, 30 };
             int[] sayilar2 = new int[] { 100, 200, 300 };
